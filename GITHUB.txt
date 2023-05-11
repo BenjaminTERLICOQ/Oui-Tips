@@ -1,0 +1,3 @@
+Cloner le dossier,  Ajouter les fichiers  , Commenter les fichiers ajoutés , Envoyer les fichiers dans le Github
+
+git clone 			git add * 			git commit -m  				git push
